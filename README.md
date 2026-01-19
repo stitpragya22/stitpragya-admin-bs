@@ -22,6 +22,7 @@ server-rendered application.
 This project is released under the **MIT License**.
 
 You are free to:
+
 - Use it in personal and commercial projects
 - Modify and distribute it
 - Integrate it into your own products or client work
